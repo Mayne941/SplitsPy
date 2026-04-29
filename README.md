@@ -1,5 +1,7 @@
 # SplitsPy
 
+A remix of original repo to include fixes for portability and calling from APIs.
+
 ## Overview
 
 This package provides a program called outline.py that provides an implementation of phylogenetic outlines. In more detail, it implements two algorithms:
